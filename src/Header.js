@@ -1,15 +1,16 @@
 import React from "react"
 import boylencircle from "./boylencircle.png"
+import sirius from "./Sirius.mp3"
+
 
 
 function Header () {
     return (
         <header className="App-header">
-            <p id="text">
-            The Jim Boylen Random Quote Machine!
-            </p>
-         <img src={boylencircle} className="App-logo" alt="logo" />  
-         
+            <h1 id="text">
+            The Jim Boylen <br />Random Quote Machine!
+            </h1>
+         <img src={boylencircle} className="App-logo" alt="logo" />
         </header>
     )
 }
