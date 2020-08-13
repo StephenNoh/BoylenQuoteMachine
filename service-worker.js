@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BoylenQuoteMachine/precache-manifest.75de4421c0b44ac1812b9f121f88e127.js"
+  "/BoylenQuoteMachine/precache-manifest.8bc6ad167e333a569e6d106502d12586.js"
 );
 
 self.addEventListener('message', (event) => {
