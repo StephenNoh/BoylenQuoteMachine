@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BoylenQuoteMachine/static/css/main.9721610e.chunk.css",
+    "main.js": "/BoylenQuoteMachine/static/js/main.ceebc88d.chunk.js",
+    "main.js.map": "/BoylenQuoteMachine/static/js/main.ceebc88d.chunk.js.map",
+    "runtime-main.js": "/BoylenQuoteMachine/static/js/runtime-main.4fd2aab8.js",
+    "runtime-main.js.map": "/BoylenQuoteMachine/static/js/runtime-main.4fd2aab8.js.map",
+    "static/js/2.421798e9.chunk.js": "/BoylenQuoteMachine/static/js/2.421798e9.chunk.js",
+    "static/js/2.421798e9.chunk.js.map": "/BoylenQuoteMachine/static/js/2.421798e9.chunk.js.map",
+    "index.html": "/BoylenQuoteMachine/index.html",
+    "precache-manifest.75de4421c0b44ac1812b9f121f88e127.js": "/BoylenQuoteMachine/precache-manifest.75de4421c0b44ac1812b9f121f88e127.js",
+    "service-worker.js": "/BoylenQuoteMachine/service-worker.js",
+    "static/css/main.9721610e.chunk.css.map": "/BoylenQuoteMachine/static/css/main.9721610e.chunk.css.map",
+    "static/js/2.421798e9.chunk.js.LICENSE.txt": "/BoylenQuoteMachine/static/js/2.421798e9.chunk.js.LICENSE.txt",
+    "static/media/boylencircle.png": "/BoylenQuoteMachine/static/media/boylencircle.23190fa5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fd2aab8.js",
+    "static/js/2.421798e9.chunk.js",
+    "static/css/main.9721610e.chunk.css",
+    "static/js/main.ceebc88d.chunk.js"
+  ]
+}
