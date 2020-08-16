@@ -23,7 +23,7 @@ class App extends Component {
       <div className="App" id="quote-box">
         <Header />
        
-        <p id="new-quote">"{this.state.quote[Math.floor(Math.random() * 43)]}"</p>
+        <p id="new-quote">"{this.state.quote[Math.floor(Math.random() * 45)]}"</p>
         <button onClick={this.handleClick}>Click for a new Boylenism</button>
 
       

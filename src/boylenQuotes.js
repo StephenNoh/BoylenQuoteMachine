@@ -41,7 +41,9 @@ const boylenQuotes = [
     "Things don’t go unnoticed when you play good basketball with a pure heart.",
     "[Kris Dunn] is a vocal part of our meal room.",
     "On setting a goal of averaging an NBA-record 35 assists per game: \"I watched the films. I see the open shots we miss. I see the assists we have. I didn’t pull this number out of the air. This is something I think we can do.",
-    "That’s my mentality, road-dog mentality."
+    "That’s my mentality, road-dog mentality.",
+    "Boylen on an earthquake during the 2019 Las Vegas summer league: \"I just think it’s the awesome power of nature to think that something can move that building that much. It’s awe-inspiring to me.",
+    "On opting not to use a timeout to stop an opposing run: \"I could’ve used one and didn’t...It was on my heart. It was on my mind."
 
 
 
